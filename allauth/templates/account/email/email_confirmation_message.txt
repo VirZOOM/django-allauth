@@ -7,5 +7,3 @@ To finish the registration for {{ user_display }}, go to {{ activate_url }}
 If you have any questions please email support@virzoom.com
 
 {% endblocktrans %}{% endautoescape %}
-{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}Thank you from {{ site_name }}!
-{{ site_domain }}{% endblocktrans %}

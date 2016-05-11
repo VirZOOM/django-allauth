@@ -1,4 +1,3 @@
-{% load i18n %}
 {% autoescape off %}
 {% blocktrans %}VirZOOM Registration{% endblocktrans %}
 {% endautoescape %}
