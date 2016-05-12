@@ -6,4 +6,6 @@ To finish the registration for {{ user_display }}, go to {{ activate_url }}
 
 If you have any questions please email support@virzoom.com
 
+- The VirZOOM team -
+
 {% endblocktrans %}{% endautoescape %}
